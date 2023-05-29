@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate 
+title: MY STATION 
+description: 👾
+plugins: 
+    - jemoji 
+url: "https://mming-chen.github.io/" 
+markdown: kramdown
