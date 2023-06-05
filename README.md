@@ -16,3 +16,6 @@
 - EMAIL ：[chenmengming55@gmail.com]
 - PHONE：[080-1223-3445]
 
+# WHAT I AM DOING NOW
+
+-　RESEARCH ABOUT
