@@ -13,4 +13,4 @@
 
 - EMAIL ：[chenmengming55@gmail.com]
 - PHONE：[080-1223-3445]
-![alt 属性文本]（WechatIMG254.jpeg）
+![alt 属性文本]（WechatIMG254.jpeg “WechatIMG254.jpeg”）
